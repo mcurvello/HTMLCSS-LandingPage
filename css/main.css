@@ -117,9 +117,10 @@ section {
   padding: 15px;
   color: #364147;
   font-size: 18px;
+  text-align: right;
 }
 
-.account > a { font-size: 14px }
+.account a { font-size: 14px }
 
 .profile-pic {
   width: 60px;
